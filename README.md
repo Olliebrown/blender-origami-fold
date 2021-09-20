@@ -27,7 +27,7 @@ Possible future features:
 
 ## How it Works
 The concept behind this add-on was largely inspired by the following Youtube Video:
-- [How to make animation of Paper Airplane in Blender](https://www.youtube.com/watch?v=pNek1tRkhqg)
+- [How to make animation of paper plane in Blender](https://www.youtube.com/watch?v=pNek1tRkhqg)
 
 I automate placement of bones and avoid multiple armatures by:
 - Using vector math to compute orientations that are perpendicular to the edge

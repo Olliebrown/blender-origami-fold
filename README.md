@@ -18,6 +18,13 @@ Possible future features:
 - Think about IK for squash and inside-reverse folds
 - Support for other advanced 3d fold types
 
+## Installation
+- Click 'code -> download zip' above to download the add-on zip
+- In Blender, open the preferences pane
+- Click 'Add-ons' at the left then 'Install..' near the top
+- Select the downloaded zip file
+- Locate 'Mesh: Origami fold' in the list and enable it
+
 ## How it Works
 The concept behind this add-on was largely inspired by the following Youtube Video:
 - [How to make animation of Paper Airplane in Blender](https://www.youtube.com/watch?v=pNek1tRkhqg)

@@ -20,9 +20,11 @@ Possible future features:
 
 ## Installation
 - Click 'code -> download zip' above to download the add-on zip
+- Extract the one folder inside, rename it to 'OrigamiFold', then re-zip it
+  - Note: I will eventually post releases that avoid this step
 - In Blender, open the preferences pane
 - Click 'Add-ons' at the left then 'Install..' near the top
-- Select the downloaded zip file
+- Select the Origamifold.zip file you created
 - Locate 'Mesh: Origami fold' in the list and enable it
 
 ## How it Works
